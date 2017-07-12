@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281291880441",
+    "firebase_url": "https://matahormigas-e7dcb.firebaseio.com",
+    "project_id": "matahormigas-e7dcb",
+    "storage_bucket": "matahormigas-e7dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281291880441:android:e91618b37e0af1af",
+        "android_client_info": {
+          "package_name": "edu.ulima.pe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281291880441-amfq8dhbm0iah19rffi6r74kr60o635h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ulima.pe",
+            "certificate_hash": "23265d7ef445eeb44f6d0fd7eefa442d920fb622"
+          }
+        },
+        {
+          "client_id": "281291880441-vi5l1j0kiiu6i6b496mb2vmmnicjlgb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH8cNYQcCJ2hNZR63fz68llMbPuMb_v6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281291880441-vi5l1j0kiiu6i6b496mb2vmmnicjlgb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
